@@ -1,4 +1,5 @@
 Hotel Revenue & Market Share Analysis (Power BI)
+
 **Business Problem:** AtliQ Grands, a luxury hotel chain in India, was losing market share and revenue to competitors. Management lacked a central system to track daily performance, making it difficult to spot pricing inefficiencies or adjust room rates effectively across different cities and booking channels.
 
 **Solution:** Designed an interactive Power BI analytics dashboard to analyze 130k+ booking records and ₹1.69B in revenue across 5 major cities (Mumbai, Delhi, Bangalore, Hyderabad, and Ahmedabad). The dashboard provides real-time visibility into key hospitality metrics to drive data-backed decision-making.
